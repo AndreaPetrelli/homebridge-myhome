@@ -1,6 +1,6 @@
 {
   "name": "homebridge-myhome",
-  "version": "0.1.18",
+  "version": "0.2.0",
   "description": "Legrand MyHome plugin for homebridge: https://github.com/nfarina/homebridge",
   "license": "MIT",
   "keywords": [
@@ -11,11 +11,11 @@
     "homebridge": ">=0.2.0"
   },
   "author": {
-    "name": "Simone Tisa"
+    "name": "Andrea Petrelli"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/simont77/homebridge-myhome"
+    "url": "https://github.com/AndreaPetrelli/homebridge-myhome"
   },
   "dependencies": {
     "debug": "^2.4.5",
